@@ -1,0 +1,30 @@
+/*Style by TagNames*/
+body {
+			background: navy;
+			color:	#ffffff;
+}
+
+
+p{
+	color: red;
+	font-weight: bold;
+}
+
+
+/*Style by Class*/
+.verde{
+	color: green;
+	font-size: 42px;
+}
+
+
+/*Style by Id*/
+#p2{
+	text-decoration: underline;
+}
+
+#p3{
+	color:	coral;
+	font-weight: bold;
+	text-decoration: underline;
+}
